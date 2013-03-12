@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  database: address_book_edw_dg_development
+  host: localhost
+
+test:
+  adapter: postgresql
+  database: address_book_edw_dg_test
+  host: localhost
